@@ -1,5 +1,5 @@
 // === AJUSTES RÁPIDOS ===
-const BIRTHDAY = { month: 8, day: 22 }; // mes 1-12, día 1-31
+const BIRTHDAY = { month: 8, day: 27 }; // mes 1-12, día 1-31
 const NAME = "Danna Sophia"; // nombre de la cumpleañera
 
 // === LÓGICA DEL CONTADOR ===
@@ -113,3 +113,4 @@ function startConfetti() {
 
 setInterval(updateCountdown, 1000);
 updateCountdown();
+
